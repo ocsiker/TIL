@@ -4,7 +4,7 @@
 
 == Designing Methods
 == Applying Access Modifiers
-=== Private Access
+==== Private Access
 ==== Default (Package Private Access) Access
 ==== Protect Access
 ==== Designing Static Methods and Fields
