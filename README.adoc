@@ -1,0 +1,15 @@
+= Today I Learned (TIL)-Daily Learning Notes
+:toc: 
+:source-highlighter: rouge
+
+== Java
+== Nvim 
+== Linux-UNix
+== Sql
+== Python
+
+
+
+
+
+
