@@ -1,0 +1,18 @@
+= Cores Java APIs
+:toc:
+:source-highlighter: rouge
+
+== Creating and Manipulating Strings
+
+== Using The StringBuilder class
+
+
+== Understanding Java Arrays 
+
+== Understanding an ArrayList
+
+== Working with Dates and Times
+
+
+
+

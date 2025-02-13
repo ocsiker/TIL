@@ -1,8 +1,13 @@
 = Today I Learned (TIL)-Daily Learning Notes
 :toc: 
 :source-highlighter: rouge
+:hide-uri-scheme: // short link url
+:leveloffset:+1
 
+[%hardbreaks]
 == Java
+include::./CoreJavaAPIs.adoc[]
+
 == Nvim 
 == Linux-UNix
 == Sql
