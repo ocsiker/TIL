@@ -1,0 +1,7 @@
+= Methods And Encapsulation
+:toc:
+:source-highlighter: rouge
+
+== Designing Methods
+
+
