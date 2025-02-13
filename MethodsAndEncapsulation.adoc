@@ -3,5 +3,27 @@
 :source-highlighter: rouge
 
 == Designing Methods
+== Applying Access Modifiers
+=== Private Access
+==== Default (Package Private Access) Access
+==== Protect Access
+==== Designing Static Methods and Fields
+==== Calling a Static Variable or Method
+==== Static vs. Instance 
+==== Static Variables 
+==== Static Initialization
+==== Static Imports
+
+
+
+
+
+
+
+
+
+
+
+
 
 
