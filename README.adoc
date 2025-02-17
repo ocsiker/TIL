@@ -7,6 +7,7 @@
 [%hardbreaks]
 == Java
 include::./CoreJavaAPIs.adoc[]
+include::./MethodsAndEncapsulation.adoc[]
 
 == Nvim 
 == Linux-UNix
